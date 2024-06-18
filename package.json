@@ -45,8 +45,8 @@
     "redux": "^4.2.0",
     "redux-thunk": "^2.4.1",
     "slick-carousel": "^1.8.1",
-    "socket.io": "^4.4.0",
-    "socket.io-client": "^4.5.1",
+    "socket.io": "^4.7.0",
+    "socket.io-client": "^4.7.0",
     "swiper": "^8.1.6"
   },
   "engines": {
